@@ -1,5 +1,5 @@
 server:
-    port: 8769
+    port: 8765
 spring:
     cloud:
         gateway:
